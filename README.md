@@ -4,7 +4,7 @@ My final project with Python, scikit-learn, and streamlit.
 ## Prerequisities
 Before you begin, ensure you have met the following requirements:
 - You have a Windows/Linux/Mac machine running Python 3.6+ : ``https://www.python.org/downloads/``.
-- You have installed the latest versions of pip : ``pip install pip``.
+- You have installed the latest versions of pip : ``pip install pip`` in Command Prompt.
 
 ## Installation
 To install the dependencies, you can simply follow this steps.
