@@ -9,14 +9,14 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 To install the dependencies, you can simply follow this steps.
 
-1. clone this repositories
+1. clone this repositories in ``Command Prompt``
 Using HTTPS:
 ```
 git clone https://github.com/cherrinn/comparative-app.git
 ```
 Other Options: SSH, GitHub CLI
 
-2. inside root folder you can type this ``Command Prompt``
+2. inside root folder you can type this
 ```
 pip install scikit-learn
 ```
@@ -26,5 +26,5 @@ pip install scikit-learn
 or
 ``python method2.py``
 or
-``python method3.py``\\
+``python method3.py``\
 then the result show in the console of Command Prompt.
