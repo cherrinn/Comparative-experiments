@@ -26,5 +26,5 @@ pip install scikit-learn
 or
 ``python method2.py``
 or
-``python method3.py``
+``python method3.py``\
 then the result show in the console of Command Prompt.
