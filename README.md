@@ -18,7 +18,7 @@ git clone https://github.com/cherrinn/comparative-app.git
 ```
 Other Options: SSH, GitHub CLI
 
-2. inside root folder you can type this Anaconda command
+2. inside root folder you can type this ``Command Prompt``
 ```
 pip install scikit-learn
 ```
