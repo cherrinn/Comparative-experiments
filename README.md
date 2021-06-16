@@ -10,11 +10,9 @@ Before you begin, ensure you have met the following requirements:
 To install the dependencies, you can simply follow this steps.
 
 1. clone this repositories in ``Command Prompt``\
-Using HTTPS:
 ```
 git clone https://github.com/cherrinn/comparative-app.git
 ```
-Other Options: SSH, GitHub CLI
 
 2. inside root folder you can type this
 ```
