@@ -14,7 +14,7 @@ To install the dependencies, you can simply follow this steps.
 git clone https://github.com/cherrinn/comparative-app.git
 ```
 
-2. inside root folder you can type (change from the current directory to comparative-experiments)
+2. inside root folder you can type <em>(change from the current directory to comparative-experiments)</em>
 ```
 pip install scikit-learn
 ```
